@@ -21,7 +21,7 @@ Usage
 
 First clone this repo and go to the project root.
 
-    $ git clone [https://github.com/nabilmoiun/Blog-Website-Django-Tutorials-Youtube.git](https://github.com/Adarsh-SS-Dev/Blog_Website.git)
+    $ git clone https://github.com/nabilmoiun/Blog-Website-Django-Tutorials-Youtube.git
   
 
 I would recommend to work on a virtual environment. I have used ***virtualenv*** package to create a virtual environment you may wanna use other package. So install this as well if you already haven't.
